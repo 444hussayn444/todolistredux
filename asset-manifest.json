@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/444hussayn444/todolistredux/static/css/main.42419287.css",
+    "main.js": "/444hussayn444/todolistredux/static/js/main.6a53fae5.js",
+    "index.html": "/444hussayn444/todolistredux/index.html",
+    "main.42419287.css.map": "/444hussayn444/todolistredux/static/css/main.42419287.css.map",
+    "main.6a53fae5.js.map": "/444hussayn444/todolistredux/static/js/main.6a53fae5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42419287.css",
+    "static/js/main.6a53fae5.js"
+  ]
+}
